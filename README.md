@@ -82,9 +82,4 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-  
-  <!-- SwiftUI -->
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> 
-    <img src="https://cfeapps.com/wp-content/uploads/2020/04/SwiftUI-la-nueva-forma-de-crear-Apps2.png" alt="swiftui" width="40" height="40"/> 
-  </a>
 </p>
