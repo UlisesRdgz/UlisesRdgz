@@ -4,8 +4,8 @@
 <a href="https://github.com/UlisesRdgz/?tab=follow"> <img src="https://komarev.com/ghpvc/?username=UlisesRdgz" /> </a> 
 <a href="https://github.com/UlisesRdgz/?tab=follow"> <img src="https://img.shields.io/github/followers/UlisesRdgz?label=Follow&style=social" /> </a>
 
-- 👨‍💻 Computer Science Student at <a href="https://www.fciencias.unam.mx">UNAM 
-- 🧠 Learning about **Swift** 
+- 👨🏻‍🎓 Computer Science Student at <a href="https://www.fciencias.unam.mx">UNAM 
+- 💻 Software Developer at Oracle
 
 <h3 align="left">Languages and Tools:</h3> 
 
